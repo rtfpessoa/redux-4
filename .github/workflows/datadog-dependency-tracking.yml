@@ -4,7 +4,7 @@ on:
 jobs:
   check-quality:
     runs-on: ubuntu-latest
-    name: Datadog SBOM Generation and Upload
+    name: Datadog SBOM Generation and Upload 2
     steps:
     - name: Checkout
       uses: actions/checkout@v3
