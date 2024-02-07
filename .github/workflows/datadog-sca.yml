@@ -1,6 +1,6 @@
 on: [push]
 
-name: Datadog Software Composition Analysis
+name: Datadog Software Composition Analysis Test
 
 jobs:
   software-composition-analysis:
